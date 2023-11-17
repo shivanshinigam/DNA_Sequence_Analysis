@@ -1,7 +1,8 @@
 # DNA_Sequence_Analysis
 
 
-![DNA](https://github.com/shivanshinigam/DNA_Sequence_Analysis/assets/130684919/0ec6bdc5-6617-4d63-902d-34ee75b2c48d)
+![DNA](https://github.com/shivanshinigam/DNA_Sequence_Analysis/assets/130684919/32af0e16-afa5-4c5b-8410-626debc31e7b)
+
 
 
 This study pioneers the application of Huffman coding to compress genetic data, drawing an analogy to a musical composition. By scrutinizing the frequency of each DNA base symbol, the genetic landscape is unveiled. Painstakingly constructing a Huffman tree, akin to composing a symphony, results in a binary representation—a unique genetic tune. Different Huffman codes assign distinct sequences to each DNA symbol, akin to musical notes. The compression process, like a beautiful metamorphosis, yields a refined binary work, significantly reducing data volume. This harmonious fusion of computational prowess and biological understanding not only enables efficient storage and transfer but also marks a groundbreaking advancement in genetic data administration.
